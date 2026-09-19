@@ -24,7 +24,6 @@ Scan hosts, discover open ports, grab service banners — all from a modern dark
 
 ## Screenshots
 
-> _Replace the placeholders below with actual screenshots after running the app._
 
 ### Main Window  
 ![Main window](screenshots/main_window.png)
